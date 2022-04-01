@@ -1,4 +1,4 @@
-DATA = "data_daily"
+DATA="data_daily"
 DATA_DIR="content/data/data_daily"
 #DATA_DIR="data_ost"
 DATASET="bert"

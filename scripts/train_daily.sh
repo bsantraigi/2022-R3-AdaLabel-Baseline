@@ -4,8 +4,8 @@ DATA_DIR="/content/data/data_daily"
 DATASET="bert"
 EMB=512
 STEPS=1000000
-BS=64
-ACCUM=2
+BS=16
+ACCUM=8
 SAVESTEPS=1000
 
 

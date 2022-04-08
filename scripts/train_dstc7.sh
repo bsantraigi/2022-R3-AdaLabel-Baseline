@@ -1,5 +1,5 @@
 DATA="data_dstc7"
-DATA_DIR="/content/data/data_dstc7"
+DATA_DIR="data/data_dstc7"
 DATASET="bert"
 EMB=512
 STEPS=1000000
